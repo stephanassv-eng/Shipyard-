@@ -2,9 +2,8 @@
 
 A product-catalog storefront built with Next.js + TypeScript.
 
-- Live site: https://keerthiy0406.github.io/shipyard/
-- Lighthouse Performance: YOUR-SCORE (mobile)
-
+- Live site: https://stephanassv-eng.github.io/Shipyard-/
+- Lighthouse Performance: Pending (mobile)
 ## Run locally
 npm install
 npm run dev
